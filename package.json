@@ -1,0 +1,11 @@
+{
+  "name": "wallaby-1697",
+  "version": "1.0.0",
+  "dependencies": {
+    "@types/mocha": "^5.2.1",
+    "extract-text-webpack-plugin": "^3.0.2",
+    "typescript": "^2.9.1",
+    "wallaby-webpack": "^3.9.9",
+    "webpack": "^4.12.0"
+  }
+}
