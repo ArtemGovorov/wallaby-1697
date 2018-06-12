@@ -54,7 +54,6 @@ var wallabyPostprocessor = wallabyWebpack({
         'NODE_ENV': JSON.stringify('development')
       }
     }),
-    new webpack.NamedModulesPlugin()
   ]
 });
 
